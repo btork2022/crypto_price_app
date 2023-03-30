@@ -8,7 +8,7 @@ import { useEffect, useState } from 'react';
 import Axios from 'axios';
 
 // Importing the Coin component
-import Coin from './components/Coin';
+import Coin from './components/Coins';
 
 // Defining the App component
 function App() {

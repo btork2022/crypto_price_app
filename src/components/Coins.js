@@ -1,6 +1,5 @@
 // Importing React library
 import React from 'react';
-import Chart from './Chart.js';
 
 // Defining the Coin component and adding props
 function Coin({ name, icon, price, symbol}) {

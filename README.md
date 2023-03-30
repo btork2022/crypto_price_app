@@ -37,6 +37,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `git push -u origin main`
 
 ### `npm install axios`
+### `npm install chart.js@2.9.4`
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**

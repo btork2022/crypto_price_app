@@ -36,7 +36,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `git branch -M main`
 ### `git push -u origin main`
 
-
+### `npm install axios`
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**

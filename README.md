@@ -1,79 +1,75 @@
-# Getting Started with Create React App
+# <Crypto Price Viewer Application>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npx creat-react-app crypto_price_app`
-### `cd crypto_price_app`
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is a React.js built application designed for the purpose of easy viewing access to current cryptocurrency prices. Compared to multi-page versions of web applications built on CSS-javascript, this single-page version is for giving users faster access to information due to the quick page loading feature of React.js. 
 
 
-### `git remote add origin git@github.com:btork2022/crypto_price_app.git`
-### `git branch -M main`
-### `git push -u origin main`
+## Table of Contents
 
-### `npm install axios`
-### `npm install chart.js@2.9.4`
-### `npm run eject`
+- [Installation](#installation)
+- [Deployment](#deployment)
+- [Credits](#credits)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Installation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The step-by-step depiction of the commands below are required for intallation of the:
+- React.js environment
+- installing library packages for the application
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+Below are the commands:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+In the project directory, can run:
+#### `npx creat-react-app crypto_price_app`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### `cd crypto_price_app`
+#### `npm start`
 
-### Code Splitting
+For the Git environment:
+#### `git remote add origin git@github.com:btork2022/crypto_price_app.git`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+#### `git branch -M main`
+#### `git push -u origin main`
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+For the packages:
 
-### Making a Progressive Web App
+#### `npm install axios`
+#### `npm install chart.js@2.9.4`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Deployment 
 
-### Advanced Configuration
+### Deployment-Links and Screenshots
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Project Webpage URL:
+#### `https://darling-lebkuchen-5af3b7.netlify.app/`
 
-### Deployment
+Github Project Repo:
+#### `https://github.com/btork2022/crypto_price_app`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- On a new webpage, enter the above project-webpage URL.
+- Immediately it loads, a diplay of popular cryptocurrency coins can be seen.
+- At the top of the landing page, enter coin of choice to search.
+- View the result and scroll through as desired.
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![alt text](src/assets/project2%20gif.gif)
+
+
+## Credits
+
+#### For guidance
+
+Drew Hoang (Instructor)
+
+Matthew Steffner (Assistant Instructor)
+- https://github.com/huntersteffner
+
+Machado Pedro: pedro@pedrotech.co
+- https://github.com/machadop1407
+
+Cryptocurrency Coin prices and Charts API: 
+- https://documenter.getpostman.com/view/5734027/RzZ6Hzr3
+

@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npx creat-react-app crypto_price_app`
+### `cd crypto_price_app`
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -28,6 +30,12 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+
+### `git remote add origin git@github.com:btork2022/crypto_price_app.git`
+### `git branch -M main`
+### `git push -u origin main`
+
 
 ### `npm run eject`
 

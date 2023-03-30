@@ -7,6 +7,8 @@ import { useEffect, useState } from 'react';
 // Importing Axios library for making HTTP requests
 import Axios from 'axios';
 
+
+
 // Importing the Coin component
 import Coin from './components/Coins';
 

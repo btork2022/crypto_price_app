@@ -5,7 +5,10 @@ import Chart from 'chart.js';
 
 // Defining a functional component 'LineChart' with a data prop
 function LineChart({ data }) {
-// Create a reference for the canvas element
+console.log(data);
+
+
+  // Create a reference for the canvas element
 const chartRef = useRef(null);
 
 // Using useEffect hook to update chart once data changes
@@ -50,7 +53,7 @@ new Chart(myChartRef, {
     }
   }
 });
-}, [data]);
+}, [data.chart]);
 
 // Rendering the canvas element for chart display
 return (

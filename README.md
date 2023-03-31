@@ -67,6 +67,9 @@ Drew Hoang (Instructor)
 Matthew Steffner (Assistant Instructor)
 - https://github.com/huntersteffner
 
+Ryan Strickler (Assistant Instructor)
+-https://ryans93.github.io/
+
 Machado Pedro: pedro@pedrotech.co
 - https://github.com/machadop1407
 
